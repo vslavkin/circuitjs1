@@ -9,7 +9,7 @@ target/
 
 # Node modules
 node_modules/
-package-lock.json
+# package-lock.json
 
 # NW.js cache
 nwjs_cache/
